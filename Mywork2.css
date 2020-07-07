@@ -1,0 +1,102 @@
+.food-wall{
+     background: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+     border-style: solid ;
+     border-color: white;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+body{
+    margin:auto;
+}
+#logo{
+    text-align: center;
+    color:red;
+    font-weight: bold;
+    font-size:95px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin:auto;
+    border-radius:80%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.heading{
+            text-align:center;
+            color:white;
+            font-size:40px;
+        
+
+}
+.locationselector{
+            text-align:center;
+            margin-top:20px;
+            margin-bottom:20px;
+            font-size:40px;
+    }
+.locationdropdown{
+    text-align:center;
+    border:solid red;
+    margin:20px opx 20px 0px;
+    
+}
+.Quicksearchcontainer{
+                margin-left:115px;
+                margin-top:100px;
+}
+.QuickSearches{
+           text-align:left;
+           line-height:15px;
+           font-family:Georgia, 'Times New Roman', Times, serif;
+           font-weight:50px;
+           font-size:50px;
+           color:Blue;
+           font-style:normal;
+           margin-top:20px;
+
+}
+.QuickSearchSubHeading{
+           text-align:left;
+           line-height:1.5px;
+           font-family:Georgia, 'Times New Roman', Times, serif;
+           font-weight:50px;
+           font-size:25px;
+           color:Blue;
+           font-style: normal;
+           margin-top:40px;
+
+}
+.mealslist{
+    box-shadow: 0 3px 6px #916179;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width:400px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+    margin-top:40px;
+
+}
+.image{
+    width:50%;
+      float:left;
+      height:100px;
+}
+.imagebox{
+    width:50%;
+    float:left;
+     margin-top:30px;
+    }
+.imghd{
+    text-align:left;
+    font-size:18px;
+    color:rgb(235, 13, 79);
+    font-weight:bold;
+    display:inline-block;
+}
+.imgsubh{
+        font-size:14px;
+        color:rgb(228, 29, 79);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align:left;
+    }
