@@ -1,0 +1,80 @@
+#top
+{
+     background-color:Red;
+     height:50px;
+     position:static;
+     }
+
+.logo{
+    background-color:white;
+    text-align:center;
+    border-radius:55%;
+    color:Red;
+    height:40px;
+    width:40px;
+    font-size:30px;
+    font-weight:bold;
+    display:inline-block;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:10%;
+    margin-right:50%;
+    margin-top:4px;
+}
+.rose{
+    background-color:red;
+color:white;
+border:0px solid red;
+display:inline-block;
+font-size:30px;
+}
+button{           
+              position:relative;
+              bottom:20px;
+              font-size:20px;
+              top:0px;
+              text-align:center;
+              color:white;
+              border:red;
+              background-color: red;
+               }
+.image{
+              position:static;
+              margin-top:40px;
+    object-fit:contain;
+    }
+.subh{
+    margin-top:30px;
+    font-size:35px;
+    color:rgb(83, 19, 167);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+#con
+{
+    text-align:left;
+    color:rgb(28, 13, 236);
+    margin-top:25px;
+    font-size:17px;
+    display:inline-block;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.heading{
+    font-size:20px;
+    font-style:normal;
+    font-weight:Bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height:20px;
+    color:rgb(14, 14, 92)
+}
+.Ad{
+    font-size:18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(47, 47, 189);
+    text-align:left;
+}
+#ph{
+    font-size:18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(24, 35, 190);
+    text-align:left;
+}
